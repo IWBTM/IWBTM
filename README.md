@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>환영합니다.</h2>
+  <h2>HELLO, WORLD.</h2>
   <h3></h3>
 
   <h4>BLOG</h4>
