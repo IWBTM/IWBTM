@@ -53,7 +53,7 @@
   
   <br><br>
   <p>tel : 010-6709-7992</p>
-  <p>email : ganggang00@kakao.com</p>
+  <p>email : gang.dev0nly@gmail.com</p>
 </div>  
   
 
